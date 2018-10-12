@@ -1,0 +1,7 @@
+
+Using the script:
+
+1. Change your current working directory to the directory where the script is stored 
+2. Replace the files in the L5K folder with the ones you want to extract the PLC Versions from
+3. From the cmd line type: python PLC_version_extractor.py
+4. A file names controller_versions.csv should be created containting the results.
